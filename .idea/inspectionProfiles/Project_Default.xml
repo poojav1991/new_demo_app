@@ -1,0 +1,16 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Inheritance_childclass.*" />
+          <option value="list.is_enabled" />
+          <option value="bytes.element_to_be_clickable" />
+          <option value="linklocators.expected" />
+          <option value="test.conftest.driver" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
