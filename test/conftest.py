@@ -5,7 +5,6 @@ import pytest
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
-
 driver = None
 
 
@@ -39,10 +38,10 @@ def setup(request):
 
 @pytest.mark.hookwrapper
 def pytest_runtest_makereport(item):
-    """
-        Extends the PyTest Plugin to take and embed screenshot in html report, whenever test fails.
-        :param item:
-    """
+
+     #   Extends the PyTest Plugin to take and embed screenshot in html report, whenever test fails.
+      #  :param item:
+
     pytest_html = item.config.pluginmanager.getplugin('html')
     outcome = yield
     report = outcome.get_result()
@@ -65,5 +64,5 @@ def pytest_runtest_makereport(item):
 def _capture_screenshot(name):
     # driver.get_screenshot_as_file(name)
     # path = '/home/atpl/Pooja/PycharmProjects/PythonSelfFramework/screenshot/'+name
-    # print(name)
+    print(name)
     driver.get_screenshot_as_file(name)

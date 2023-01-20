@@ -8,11 +8,6 @@ class adduserdata:
                          "ownername": "Mittal Patel",
                          "mobileno": "4747441414",
                          "setting_search_add": "maninagar",
-                         "city": "Ahmedabad", "status": "In-Active"},
-                        {"firmname": "Mittal Corporation",
-                         "ownername": "Mittal Shah",
-                         "mobileno": "0014114714",
-                         "setting_search_add": "maninagar",
                          "city": "Ahmedabad", "status": "In-Active"}
                         ]
 

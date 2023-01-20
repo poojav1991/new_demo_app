@@ -48,7 +48,7 @@ class TestOne(BaseClass):
         # time.sleep(5)
         log.info("Enterring area name in address")
         self.driver.find_element(By.ID, "setting-search-add").send_keys(
-            "Maninagar")  # this one is send keyword to input box
+            "Maninadfggar")  # this one is send keyword to input box
         # print("1")
         # log.info("Enterring area name in address")
         self.verify_presence_of_element_located(
