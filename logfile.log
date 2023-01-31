@@ -144,3 +144,17 @@
 2023-01-27 18:35:56,355 : INFO : test_e2e : Enterring area name in address
 2023-01-28 11:48:14,207 : INFO : test_login : Login with this mobile number 9876543210
 2023-01-28 11:48:14,208 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-28 12:03:23,194 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-28 12:03:23,194 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-28 17:00:54,455 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-28 17:00:54,455 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-28 17:01:43,922 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-28 17:01:43,922 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-28 17:02:35,020 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-28 17:02:35,021 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:01:42,675 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:01:42,675 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:05:49,113 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:05:49,113 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:06:45,012 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:06:45,013 : INFO : test_login : Login with this password P@ssw0rd

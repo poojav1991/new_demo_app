@@ -64,5 +64,5 @@ def pytest_runtest_makereport(item):
 def _capture_screenshot(name):
     # driver.get_screenshot_as_file(name)
     # path = '/home/atpl/Pooja/PycharmProjects/PythonSelfFramework/screenshot/'+name
-    print(name)
+
     driver.get_screenshot_as_file(name)
