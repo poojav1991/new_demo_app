@@ -4,11 +4,9 @@ import pytest
 #from selenium import webdriver
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
-#from html import HTML
-import screenshot
+
 
 driver = None
-
 
 # from selenium.webdriver.Chrome import webdriver
 def pytest_addoption(parser):
@@ -39,33 +37,33 @@ def setup(request):
 
 
 
-@pytest.mark.hookwrapper
-def pytest_runtest_makereport(item):
+    @pytest.mark.hookwrapper
+    def pytest_runtest_makereport(item):
 
      # Extends the PyTest Plugin to take and embed screenshot in html report, whenever test fails.
        #:param item:
 
-    pytest_html = item.config.pluginmanager.getplugin('html')
-    outcome = yield
-    report = outcome.get_result()
-    extra = getattr(report, 'extra', [])
+        pytest_html = item.config.pluginmanager.getplugin('html')
+        outcome = yield
+        report = outcome.get_result()
+        extra = getattr(report, 'extra', [])
 
-    if report.when == 'call' or report.when == "setup":
-        xfail = hasattr(report, 'wasxfail')
-        if (report.skipped and xfail) or (report.failed and not xfail):
-            file_name = report.nodeid.replace("::", "_") + time.ctime() + ".png"
-            print(file_name)
-            mod_string = file_name[5:]
-            mod_string = 'screenshot/' + mod_string
-            _capture_screenshot(mod_string)
-            if file_name:
-                html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
+        if report.when == 'call' or report.when == "setup":
+            xfail = hasattr(report, 'wasxfail')
+            if (report.skipped and xfail) or (report.failed and not xfail):
+                file_name = report.nodeid.replace("::", "_") + time.ctime() + ".png"
+                print(file_name)
+                mod_string = file_name[5:]
+                mod_string = 'screenshot/' + mod_string
+                _capture_screenshot(mod_string)
+                if file_name:
+                    html = '<div><img src="%s" alt="screenshot" style="width:304px;height:228px;" ' \
                        'onclick="window.open(this.src)" align="right"/></div>' % mod_string
-                extra.append(pytest_html.extras.html(html))
+                    extra.append(pytest_html.extras.html(html))
             report.extra = extra
 
-def _capture_screenshot(name):
-    #driver.get_screenshot_as_file(name)
-    #path = '/home/atpl/Pooja/PycharmProjects/PythonSelfFramework/screenshot/'+name
-    print(name)
-    driver.get_screenshot_as_file(name)
+    def _capture_screenshot(name):
+        #driver.get_screenshot_as_file(name)
+        #path = '/home/atpl/Pooja/PycharmProjects/PythonSelfFramework/screenshot/'+name
+        print(name)
+        driver.get_screenshot_as_file(name)
