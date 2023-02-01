@@ -408,3 +408,48 @@
 2023-02-01 18:11:26,023 : INFO : test_e2e : False
 2023-02-01 18:11:27,071 : INFO : test_e2e : False
 2023-02-01 18:11:29,249 : INFO : test_e2e : Enterring area name in address
+2023-02-01 18:14:50,651 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 18:14:50,651 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 18:16:22,840 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="63da6a148e53a3769503ec9c5831aac2", element="d376b782-77e0-4660-b442-8de65c307823")>
+2023-02-01 18:16:25,406 : INFO : test_e2e : getting all checkboxes
+2023-02-01 18:16:28,480 : INFO : test_e2e : False
+2023-02-01 18:16:29,543 : INFO : test_e2e : False
+2023-02-01 18:16:30,600 : INFO : test_e2e : False
+2023-02-01 18:16:32,606 : INFO : test_e2e : Enterring area name in address
+2023-02-01 18:18:09,790 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 18:18:09,790 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 18:19:33,578 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 18:19:33,578 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 18:20:32,164 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 18:20:32,164 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 18:22:00,386 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="ff3580d6d1f5d7509677c2222bbb2a22", element="feca9d44-73b6-4e5a-9dc3-8b865fb3ccba")>
+2023-02-01 18:22:02,636 : INFO : test_e2e : getting all checkboxes
+2023-02-01 18:22:05,711 : INFO : test_e2e : False
+2023-02-01 18:22:06,773 : INFO : test_e2e : False
+2023-02-01 18:22:07,833 : INFO : test_e2e : False
+2023-02-01 18:22:09,802 : INFO : test_e2e : Enterring area name in address
+2023-02-01 18:25:56,083 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 18:25:56,083 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 18:26:29,644 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 18:26:29,644 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 18:26:44,079 : INFO : test_submitUser : success message recieved from add user User [Pooja Shah] Saved Successfully
+2023-02-01 18:27:02,381 : INFO : test_submitUser : success message recieved from add user User [Jiten Patel] Saved Successfully
+2023-02-01 18:27:02,381 : INFO : test_submitUser : success message recieved from add user User [Jiten Patel] Saved Successfully
+2023-02-01 18:27:20,540 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-02-01 18:27:20,540 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-02-01 18:27:20,540 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-02-01 18:27:39,435 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 18:27:39,435 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 18:27:39,435 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 18:27:39,435 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 18:27:57,538 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 18:27:57,538 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 18:27:57,538 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 18:27:57,538 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 18:27:57,538 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 18:28:04,945 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="11e30c346ece13ac0ff424a13c63c434", element="2acb592d-786d-4d6b-a08b-9501c2168842")>
+2023-02-01 18:28:07,396 : INFO : test_e2e : getting all checkboxes
+2023-02-01 18:28:10,475 : INFO : test_e2e : False
+2023-02-01 18:28:11,532 : INFO : test_e2e : False
+2023-02-01 18:28:12,589 : INFO : test_e2e : False
+2023-02-01 18:28:14,837 : INFO : test_e2e : Enterring area name in address

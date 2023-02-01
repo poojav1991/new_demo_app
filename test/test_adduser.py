@@ -64,7 +64,7 @@ class TestAddUser(BaseClass):
         # if success_text != "":
         log.info("success message recieved from add user " + success_text)
         time.sleep(5)
-        assert ("dhhfhdfghfhfghfhfh" in success_text)
+        assert ("fsfsdfsdfsdfsdffs" in success_text)
         time.sleep(5)
 
     # @pytest.fixture(params=[("9876514710","Psdds0rd"),
