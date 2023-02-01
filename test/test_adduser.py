@@ -2,13 +2,15 @@ from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 import time
+
 import pytest
 from selenium.webdriver.support.select import Select
 """
-from pageobjects.listpage import listpage
-from pageobjects.loginpage import loginpage
-from testdata.adduserdata import adduserdata
-from utilities.BaseClass import BaseClass
+from PythonSelfFramework.pageobjects.listpage import listpage
+from PythonSelfFramework.pageobjects.loginpage import loginpage
+from PythonSelfFramework.testdata.adduserdata import adduserdata
+from PythonSelfFramework.utilities.BaseClass import BaseClass
+
 """
 from pageobjects.addpage import addpage
 from pageobjects.listpage import listpage
@@ -33,7 +35,7 @@ class TestAddUser(BaseClass):
         ListPage = listpage(self.driver)  # This one is return from Lostpage.py object adduser = ListPage.UserList()
         adduser = ListPage.UserList()
         adduser.ProductAdd().click()
-        print("test1")
+        print(getdata["firmname"])
         adduser.get_firmname().send_keys(getdata["firmname"])  # this one is sent keyword to input box
         time.sleep(2)
         adduser.get_ownername().send_keys(getdata[

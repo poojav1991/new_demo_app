@@ -158,3 +158,83 @@
 2023-01-31 17:05:49,113 : INFO : test_login : Login with this password P@ssw0rd
 2023-01-31 17:06:45,012 : INFO : test_login : Login with this mobile number 9876543210
 2023-01-31 17:06:45,013 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:34:57,624 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:34:57,624 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:35:12,668 : INFO : test_submitUser : success message recieved from add user User [Nisha Shah] Saved Successfully
+2023-01-31 17:35:35,999 : INFO : test_submitUser : success message recieved from add user User [Jiten Patel] Saved Successfully
+2023-01-31 17:35:35,999 : INFO : test_submitUser : success message recieved from add user User [Jiten Patel] Saved Successfully
+2023-01-31 17:35:59,284 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-01-31 17:35:59,284 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-01-31 17:35:59,284 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-01-31 17:36:22,520 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-01-31 17:36:22,520 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-01-31 17:36:22,520 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-01-31 17:36:22,520 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-01-31 17:36:45,724 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-01-31 17:36:45,724 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-01-31 17:36:45,724 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-01-31 17:36:45,724 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-01-31 17:36:45,724 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-01-31 17:36:58,489 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="7cbfada1c6a48f6db63d672f2dc3ba86", element="0898ecc9-6946-479c-847f-97ca418e4a2b")>
+2023-01-31 17:37:01,590 : INFO : test_e2e : getting all checkboxes
+2023-01-31 17:37:04,668 : INFO : test_e2e : False
+2023-01-31 17:37:05,735 : INFO : test_e2e : False
+2023-01-31 17:37:06,793 : INFO : test_e2e : False
+2023-01-31 17:37:09,130 : INFO : test_e2e : Enterring area name in address
+2023-01-31 17:37:42,723 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:37:42,724 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:40:05,510 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:40:05,510 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:40:42,290 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:40:42,290 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:41:20,031 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:41:20,031 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 17:42:10,972 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 17:42:10,972 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 18:02:41,343 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 18:02:41,344 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 18:31:04,077 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 18:31:04,077 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 18:31:57,066 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 18:31:57,066 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 18:33:18,114 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 18:33:18,114 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 18:34:30,918 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 18:34:30,919 : INFO : test_login : Login with this password P@ssw0rd
+2023-01-31 18:38:04,817 : INFO : test_login : Login with this mobile number 9876543210
+2023-01-31 18:38:04,817 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 10:41:38,864 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 10:41:38,864 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 11:23:03,880 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 11:23:03,880 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 11:23:18,987 : INFO : test_submitUser : success message recieved from add user User [Nisha Shah] Saved Successfully
+2023-02-01 11:23:42,255 : INFO : test_submitUser : success message recieved from add user User [Jiten Patel] Saved Successfully
+2023-02-01 11:23:42,255 : INFO : test_submitUser : success message recieved from add user User [Jiten Patel] Saved Successfully
+2023-02-01 11:24:05,520 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-02-01 11:24:05,520 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-02-01 11:24:05,520 : INFO : test_submitUser : success message recieved from add user User [Poonam Chauhan] Saved Successfully
+2023-02-01 11:24:28,719 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 11:24:28,719 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 11:24:28,719 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 11:24:28,719 : INFO : test_submitUser : success message recieved from add user User [Deep Soni] Saved Successfully
+2023-02-01 11:24:51,912 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 11:24:51,912 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 11:24:51,912 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 11:24:51,912 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 11:24:51,912 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
+2023-02-01 11:25:04,545 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="c5402924dc69b022c7a412040ab0042c", element="83c4011f-bc61-4e86-ab08-92c9aab41dc3")>
+2023-02-01 11:25:07,583 : INFO : test_e2e : getting all checkboxes
+2023-02-01 11:25:10,657 : INFO : test_e2e : False
+2023-02-01 11:25:11,718 : INFO : test_e2e : False
+2023-02-01 11:25:12,788 : INFO : test_e2e : False
+2023-02-01 11:25:15,002 : INFO : test_e2e : Enterring area name in address
+2023-02-01 11:27:06,556 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 11:27:06,556 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 11:38:11,821 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 11:38:11,822 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 11:39:52,424 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 11:39:52,424 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 11:43:34,005 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 11:43:34,006 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 11:45:34,677 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 11:45:34,677 : INFO : test_login : Login with this password P@ssw0rd

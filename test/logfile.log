@@ -282,3 +282,5 @@
 2023-01-31 16:40:06,925 : INFO : test_submitUser : success message recieved from add user User [Avin Patel] Saved Successfully
 2023-01-31 16:42:17,730 : INFO : test_login : Login with this mobile number 9876543210
 2023-01-31 16:42:17,730 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-01 11:47:14,582 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-01 11:47:14,583 : INFO : test_login : Login with this password P@ssw0rd
