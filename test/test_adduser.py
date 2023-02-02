@@ -35,7 +35,7 @@ class TestAddUser(BaseClass):
         ListPage = listpage(self.driver)  # This one is return from Lostpage.py object adduser = ListPage.UserList()
         adduser = ListPage.UserList()
         adduser.ProductAdd().click()
-        print(getdata["firmname"])
+        #print(getdata["firmname"])
         adduser.get_firmname().send_keys(getdata["firmname"])  # this one is sent keyword to input box
         time.sleep(2)
         adduser.get_ownername().send_keys(getdata[

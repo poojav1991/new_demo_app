@@ -453,3 +453,11 @@
 2023-02-01 18:28:11,532 : INFO : test_e2e : False
 2023-02-01 18:28:12,589 : INFO : test_e2e : False
 2023-02-01 18:28:14,837 : INFO : test_e2e : Enterring area name in address
+2023-02-02 10:23:45,408 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-02 10:23:45,408 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-02 10:25:19,195 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="e297178b7435f79784127b6c926d1224", element="354883dd-2af2-473f-b9ca-36f45a8742f1")>
+2023-02-02 10:25:21,840 : INFO : test_e2e : getting all checkboxes
+2023-02-02 10:25:24,906 : INFO : test_e2e : False
+2023-02-02 10:25:25,966 : INFO : test_e2e : False
+2023-02-02 10:25:27,031 : INFO : test_e2e : False
+2023-02-02 10:25:29,426 : INFO : test_e2e : Enterring area name in address
