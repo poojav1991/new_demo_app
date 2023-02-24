@@ -34,13 +34,15 @@ class TestOne(BaseClass):
         log.info("getting all checkboxes")
         checkboxes = add.Productcheckboxes()  # checked checkboxes from addpage.py without import addpage.py
         time.sleep(3)
+        #self.driver.execute_script("window.scrollBy(0,500);")
 
         for checks in checkboxes:  # checkboxes variable store all checkboxes to iterate one by one
-            # log.info(checks.text)
-            # print(checks.text)
-            checks.click()  # click on checkboxes from checkboxes array
             log.info(checks.is_selected())
-            time.sleep(1)  # it wil wait for one second after clicking checkbox
+            log.info(checks.text)
+            #print(checks.text)
+            checks.click()  # click on checkboxes from checkboxes array
+
+            time.sleep(2)  # it wil wait for one second after clicking checkbox
         # time.sleep(3)
         adduser = ListPage.UserList()
         # time.sleep(3)
