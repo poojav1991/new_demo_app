@@ -39,7 +39,7 @@ class TestAddUser(BaseClass):
         adduser.get_firmname().send_keys(getdata["firmname"])  # this one is sent keyword to input box
         time.sleep(2)
         adduser.get_ownername().send_keys(getdata[
-                                              "ownername"])  # this one is sent keyword to input box            adduser.get_mobileno().send_keys(getdata["mobileno"])  # this one is sent keyword to input box
+                                              "ownername"])  # this one is sent keyword to input box adduser.get_mobileno().send_keys(getdata["mobileno"])  # this one is sent keyword to input box
         adduser.get_mobileno().send_keys(getdata["mobileno"])
         adduser.get_genp().click()  # click on generate password button in form
         time.sleep(2)
