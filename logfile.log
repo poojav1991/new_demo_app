@@ -540,3 +540,15 @@
 2023-02-24 17:05:59,881 : INFO : test_e2e : False
 2023-02-24 17:06:00,941 : INFO : test_e2e : False
 2023-02-24 17:06:02,006 : INFO : test_e2e : False
+2023-02-27 18:51:38,833 : INFO : test_login : Login with this mobile number 9876543210
+2023-02-27 18:51:38,833 : INFO : test_login : Login with this password P@ssw0rd
+2023-02-27 18:53:48,822 : INFO : test_e2e : <selenium.webdriver.remote.webelement.WebElement (session="06def62340f4b164d03f2eddd9365384", element="0f2c33f7-a00f-440c-ac4f-f1350ced7015")>
+2023-02-27 18:53:51,644 : INFO : test_e2e : getting all checkboxes
+2023-02-27 18:53:54,676 : INFO : test_e2e : False
+2023-02-27 18:53:54,693 : INFO : test_e2e : Is drawer system connector?
+2023-02-27 18:53:56,748 : INFO : test_e2e : False
+2023-02-27 18:53:56,765 : INFO : test_e2e : Do You Want to Send Notification
+2023-02-27 18:53:58,824 : INFO : test_e2e : False
+2023-02-27 18:53:58,844 : INFO : test_e2e : Hot Products
+2023-02-27 18:54:00,908 : INFO : test_e2e : False
+2023-02-27 18:54:00,928 : INFO : test_e2e : Dealer
